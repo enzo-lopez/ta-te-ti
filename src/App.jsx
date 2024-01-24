@@ -1,4 +1,3 @@
-import "./App.css"
 import {useState} from "react"
 import {Square} from './components/Square.jsx'
 import confetti from "canvas-confetti"
